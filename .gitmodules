@@ -1,0 +1,3 @@
+[submodule "geofence_test"]
+	path = geofence_test
+	url = https://github.com/Adminius/geofence_test.git
